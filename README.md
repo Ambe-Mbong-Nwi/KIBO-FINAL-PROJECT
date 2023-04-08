@@ -1,6 +1,9 @@
-# KIBO - Final Project
+## KIBO PROJECTS 
 
 This repository contains all my projects which were carried out during my 5-week journey in the KIBO program. 
+
+
+# FINAL PROJECT
 On display below is my final project. This web-page shows a slidshow with screenshots of all the web-pages built or corrected during my 5-week period in KIBO.
 
 ## Table of contents
