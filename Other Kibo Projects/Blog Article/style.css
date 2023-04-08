@@ -1,0 +1,121 @@
+/* All the body text gets this font and color */ 
+
+body {
+    font-family: Poppins, sans-serif;
+    color: var(--body-text-color);
+  }
+  
+  /* Header styles */
+  header{
+    padding: 24px;
+    font-size: 1.125rem;
+  }
+  
+  header a{
+    text-decoration: none;
+    color: var(--nav-color);
+  }
+  
+  .title{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 1rem;
+    vertical-align: top;
+    display: inline-block;
+    padding-top: 1rem;
+   
+  }
+  
+  .nav-links a span{
+    margin: 10px;
+    vertical-align: top;
+    display: inline-block;
+    padding-top: 1rem;
+    }
+  
+  .nav-links{
+    margin-left: 55%;
+  }
+  
+  .nav-links a span:hover{
+    text-decoration: underline;
+  }
+  
+  /* Main styles */
+  .info span{
+    color: var(--info-color);
+    margin-right: 15px;
+    display: inline-block;
+  }
+  
+  .info span a{
+    color: var(--accent-color);
+    text-decoration: none;
+  }
+  
+  h1, h3{
+    font-family: "Libre Baskerville", serif;
+    font-size: 2.625rem;
+    font-weight: 300;
+    margin-top: 10px;
+  }
+  
+  p{
+    font-size: 1.125rem;
+    line-height: 1.6;
+  }
+  
+  main ul li a, main p a{
+    color: var(--accent-color);
+  }
+  
+  main{
+    padding: 15px;
+    max-width: 620px;
+    margin: auto;
+  }
+  /* Footer styles */
+  
+  footer{
+    background-color: var(--footer-background-color);
+    color: var(--footer-text-color);
+    padding: 3rem;
+  }
+  
+  footer h4{
+    font-family: "Libre Baskervile", serif;
+    color: var(--accent-color);
+    font-size: 1.25rem;
+    text-align: center;
+  }
+  
+  footer p{
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  footer nav ul li{
+    list-style-type: none;
+    padding-top: 5px;
+  }
+  
+  footer nav ul li a{
+    color: var(--footer-text-color);
+    text-decoration: none;
+  }
+  
+  footer nav ul li a:hover{
+    text-decoration: underline;
+  }
+  
+  footer nav ul{
+    padding: 0;
+    width: 500px;
+    margin: 20px auto;
+  }
+  
+  .social-icons{
+    fill: var(--footer-text-color);
+    text-align: center;
+  }
+  

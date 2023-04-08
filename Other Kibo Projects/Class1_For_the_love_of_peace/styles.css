@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .peace {
+    border: 1px solid grey;
+  }
+  
+  .war {
+    float: left;
+    border: 1px solid grey;
+  }
+  
+  img {
+    margin-left: 15%;
+    width: 70%;
+    height: 550px;
+  }
+  
+  button {
+    color: red;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 40%;
+    width: 20%;
+    padding: 15px;
+    border: 1px solid brown;
+    border-radius: 5px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .active {
+    display: show;
+  }

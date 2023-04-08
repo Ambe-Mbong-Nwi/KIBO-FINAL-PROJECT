@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    color: #275a86;
+    background-color: #b7ffe7;
+  }
+  
+  .h21 {
+    font-size: 50px;
+    display: inline-block;
+    margin-right: 80px;
+  }
+  
+  .h22 {
+    font-size: 50px;
+    display: inline-block;
+    margin-left: 80px;
+  }
+  
+  .button1 {
+    font-family: monospace;
+    font-size: 32px;
+    padding: 0.5em;
+    background-color: blue;
+  }
+  
+  .button2 {
+    font-family: monospace;
+    font-size: 32px;
+    padding: 0.5em;
+    background-color: red;
+  }

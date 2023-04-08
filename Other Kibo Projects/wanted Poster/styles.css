@@ -1,0 +1,43 @@
+/* 
+  Insert any CSS code below here
+  You can change the div styles if you want!
+*/
+
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 2px solid black;
+    height: 100%;
+  }
+  
+  body{
+    background-color: rgb(100, 0, 0);
+    color: lightgrey;
+    padding: 20px;
+  }
+  
+  h1{
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+  }
+  
+  h3{
+    font-size: 2em;
+    font-family: Arial;
+  }
+  
+  ul{
+    list-style-type: none;
+    text-align: left;
+    font-size: 1.1em;
+  }
+  
+  li{
+    padding: 8px;
+  }
+  
+  p{
+    margin-top: 40px;
+    font-size: 1.2em;
+  }
